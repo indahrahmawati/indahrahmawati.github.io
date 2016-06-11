@@ -18,9 +18,8 @@ Seorang anak perempuan yang lahir 20 tahun silam dan sedang dalam tahap proses b
 ## Musik
 
 	
-<audio>
+<section style="text-align:center"><audio controls>
   <source src="Boyce_Avenue_-_Somebody_That_I_Used_To_Know_Cover.ogg" type="audio/ogg">
-  Teks ini akan muncul jika browser tidak support HTML5 audio tag.
-</audio> 
-
+Browser kamu ga ngedukung nih :(
+</audio></section>
 
