@@ -8,7 +8,7 @@ Seorang anak perempuan yang lahir 20 tahun silam dan sedang dalam tahap proses b
 
 ## Pendidikan 
 
-* Menekuni bagian dari sebuah ilmu di <a href="http://sif.uin-suska.ac.id"> Sistem Informasi</a></p>
+* Menekuni bagian dari sebuah ilmu di <a href="http://sif.uin-suska.ac.id"> Sistem Informasi</a>
 
 ## Roles
 
