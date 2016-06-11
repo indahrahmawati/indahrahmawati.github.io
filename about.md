@@ -15,11 +15,3 @@ Seorang anak perempuan yang lahir 20 tahun silam dan sedang dalam tahap proses b
 
 [indah.ir21@gmail.com](mailto:indah.ir21@gmail.com)
 
-## Musik
-
-	
-<section style="text-align:center"><audio controls>
-  <source src="Boyce_Avenue_-_Somebody_That_I_Used_To_Know_Cover.ogg" type="audio/ogg">
-Browser kamu ga ngedukung nih :(
-</audio></section>
-
