@@ -16,4 +16,16 @@ Seorang anak perempuan yang lahir 20 tahun silam dan sedang dalam tahap proses b
 [indah.ir21@gmail.com](mailto:indah.ir21@gmail.com)
 
 ## Musik
-Lagi suka covernya Boyce Avenue yang ini <source src="Boyce_Avenue_-_Somebody_That_I_Used_To_Know_Cover.ogg" type="audio/mpeg">
+<html>
+
+<head>
+<title> Lagi suka cover Boyce Avenue yang ini </title>
+</head>
+
+<body>
+<audio controls>
+<source src="Nama Lagu.mp3" type="audio/mpeg">
+</audio>
+</body>
+ 
+</html> 
